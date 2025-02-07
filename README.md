@@ -1,7 +1,7 @@
-### Hi there 👋
+### Hello there 👋
 
 Im Ramya
-Hi Sheril
+
 
 <!--
 **ramyaedwa/ramyaedwa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
